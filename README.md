@@ -9,7 +9,7 @@ Dự án được phát triển trong khuôn khổ cuộc thi **Khởi nghiệp 
 - 👤 Quản lý tài khoản người dùng (sinh viên, admin)  
 - 📰 Hiển thị và phân loại sự kiện theo thời gian / danh mục  
 - 💬 Tích hợp chat AI hỗ trợ giải đáp thắc mắc liên quan đến sự kiện  
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ## 🛠️ Công nghệ sử dụng
 - **Frontend:** React + Vite  
 - **UI Design:** Tailwind CSS, Framer Motion, Figma  
