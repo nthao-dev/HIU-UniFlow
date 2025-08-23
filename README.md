@@ -1,12 +1,47 @@
-# React + Vite
+# HIU-UniFlow 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Giới thiệu
+HIU-UniFlow là nền tảng quản lý sự kiện và hoạt động sinh viên, giúp sinh viên dễ dàng theo dõi, đăng ký và tham gia các sự kiện trong trường.  
+Dự án được phát triển trong khuôn khổ cuộc thi **Khởi nghiệp HIU 2025** và đã lọt vào **Top 5 chung cuộc**.  
 
-Currently, two official plugins are available:
+## ✨ Tính năng chính
+- 📅 Quản lý sự kiện sinh viên (tạo – chỉnh sửa – đăng ký tham gia)  
+- 👤 Quản lý tài khoản người dùng (sinh viên, admin)  
+- 📰 Hiển thị và phân loại sự kiện theo thời gian / danh mục  
+- 💬 Tích hợp chat AI hỗ trợ giải đáp thắc mắc liên quan đến sự kiện  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Công nghệ sử dụng
+- **Frontend:** React + Vite  
+- **UI Design:** Tailwind CSS, Framer Motion, Figma  
+- **Thư viện hỗ trợ:** React Router, React Icons, Chart.js, Three.js  
+- **State Management:** React state (useState, useContext)  
+- **Triển khai:** Vercel  
 
-## Expanding the ESLint configuration
+## 👨‍💻 Vai trò & đóng góp
+- **Team size:** 3 người  
+- **Vai trò của tôi:** Frontend Developer  
+   - Thiết kế & phát triển giao diện bằng React + Tailwind CSS, responsive trên mọi thiết bị  
+   - Tích hợp API backend, quản lý dữ liệu với React state và Context API  
+   - Xây dựng component tái sử dụng, tối ưu trải nghiệm người dùng  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Kết quả đạt được
+- Ứng dụng hoạt động ổn định sau khi triển khai thử nghiệm ~1 tuần  
+- Thiết kế responsive, cải thiện trải nghiệm người dùng và giảm thời gian tải trang  
+- Rút ngắn thời gian triển khai nhờ áp dụng môi trường hiện đại (Vite + Tailwind CSS)  
+
+## 🔗 Demo
+👉 
+
+## 📂 Cách chạy dự án
+```bash
+# Clone repo
+git clone https://github.com/nthao-dev/HIU-UniFlow.git
+
+# Cài đặt dependencies
+npm install
+
+# Chạy ở môi trường dev
+npm run dev
+
+# Build cho production
+npm run build
