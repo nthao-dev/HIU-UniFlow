@@ -50,7 +50,7 @@
 ---
 
 ## 🔗 Demo  
-👉https://hiu-uni-flow.vercel.app/home
+👉https://hiu-uni-flow.vercel.app/
 
 ---
 
